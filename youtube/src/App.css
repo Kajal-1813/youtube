@@ -1,0 +1,61 @@
+
+.logo {
+  width: 150px;
+  height:28px;
+  margin:5px;
+}
+.header{
+  margin-top:15px;
+  display:flex;
+  justify-content: space-between;
+
+}
+.side-btn {
+  width:30px;
+  height:30px;
+  border:none;
+  margin:5px;
+}
+.search{
+  height:35px;
+  width:500px;
+  display: flex;
+}
+.input {
+  width:500px;
+  height:38.2px;
+  border-radius: 25px 0px 0px 25px;
+  border-right-style: none;
+  border-width: 1px;
+}
+.glass {
+  border-style: solid;
+  border-width: 1px;
+  border-color: darkgray;
+  width:70px;
+  height:40px;
+  border-radius: 0px 25px 25px 0px;
+}
+.glass-logo {
+  height:20px;
+  padding:10px;
+  padding-left:15px;
+}
+.containers {
+  display: flex;
+  justify-content: space-between;
+  margin:5px;
+}
+.voice-btn {
+  height:20px;
+  border-style: none;
+}
+.mike-btn {
+  border-style: none;
+  border-radius: 15px;
+  margin-left:20px;
+}
+.record-btn {
+  border-style: none;
+  margin:5px;
+}
